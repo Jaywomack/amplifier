@@ -5,6 +5,7 @@ Git is a mature, actively maintained open source project originally developed in
 - What about GitHub? How are they related?
 https://github.com/
 - What command moves changes from GitHub to our local repo?
+	
 - What command moves changes from our local repo to GitHub?
 - What two commands are used in sequence to save changes to our local repo?
 

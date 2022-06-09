@@ -1,54 +1,57 @@
 Python Interview Questions for Data Science
-Is Python an object-oriented language? What is object-oriented programming? 
-What is a Python module? How is it different from libraries?
-What is PEP8?
-Name mutable and immutable objects.
-What are compound data types and data structures?
-What is the difference between a list and a tuple?  
-What are list and dictionary comprehension? Give an example of each.
-What is tuple unpacking? Why is it important?
-What are generators and decorators?
-What is the difference between %,  / and // ?
-What is the difference between is and ‘==’ ?
-What is the difference between indexing and slicing?
-What is the lambda function?
-Explain zip() and enumerate() function.
-How do map, reduce and filter functions work?
-What is the difference between del(), clear(), remove(),  and pop()?
-What is the difference between range, xrange and arange?
-What is the difference between pass, continue and break?
-What is Regex? List some of the important Regex functions.
-What are namespaces in Python?
-What is the difference between global and local variables?
-What is a default value?
-What does *args, **kwargs mean? When are these used?
-What is the difference between print and return?
-What is the use of the With statement?
-What is the difference between conditionals and control flows?
-How is exception handling achieved in Python?
-What is for loop and how is it different from while loop?
-What is class and object?
-What is docstring?
+1.	Is Python an object-oriented language? What is object-oriented programming? 
+2.	What is a Python module? How is it different from libraries?
+        A file containing a set of functions you want to include in your application.
+3.	What is PEP8?
+4.	Name mutable and immutable objects.
+5.	What are compound data types and data structures?
+6.	What is the difference between a list and a tuple?  
+7.	What are list and dictionary comprehension? Give an example of each.
+    
 
-Pandas and Visualization
-What is the difference between series and vectors?
-What is the difference between data frames and matrices?
-What is the difference between lists and arrays?
-What is the difference between .iloc and .loc?
-What is the difference between merge, join and concatenate?
-What is the apply() function?
-When do we use pivot_table and when do we use crosstab?
-How do you use groupby?
-What are ways to reshape a pandas dataframe? 
-What is the difference between duplicated and drop_duplicates?
-Which all Python libraries have you used for visualization? 
-List some of the categorical, distribution plots.
-What is a scatter plot?
-What is the difference between regplot(), lmplot() and residplot()?
-What is a heatmap?
-What is the difference between stripplot() and swarmplot()?
-What is the purpose of density plot or  kde plot? Where are these used?
-How is violinplot() different from boxplot()?
-What is FacetGrid?
-What is a Pairplot?
+8.	What is tuple unpacking? Why is it important?
+9.	What are generators and decorators?
+10.	What is the difference between %,  / and // ?
+11.	What is the difference between is and ‘==’ ?
+12.	What is the difference between indexing and slicing?
+13.	What is the lambda function?
+14.	Explain zip() and enumerate() function.
+15.	How do map, reduce and filter functions work?
+16.	What is the difference between del(), clear(), remove(),  and pop()?
+17.	What is the difference between range, xrange and arange?
+18.	What is the difference between pass, continue and break?
+19.	What is Regex? List some of the important Regex functions.
+20.	What are namespaces in Python?
+21.	What is the difference between global and local variables?
+22.	What is a default value?
+23.	What does *args, **kwargs mean? When are these used?
+24.	What is the difference between print and return?
+25.	What is the use of the With statement?
+26.	What is the difference between conditionals and control flows?
+27.	How is exception handling achieved in Python?
+28.	What is for loop and how is it different from while loop?
+29.	What is class and object?
+30.	What is docstring?
+
+31.	Pandas and Visualization
+32.	What is the difference between series and vectors?
+33.	What is the difference between data frames and matrices?
+34.	What is the difference between lists and arrays?
+35.	What is the difference between .iloc and .loc?
+36.	What is the difference between merge, join and concatenate?
+37.	What is the apply() function?
+38.	When do we use pivot_table and when do we use crosstab?
+39.	How do you use groupby?
+40.	What are ways to reshape a pandas dataframe? 
+41.	What is the difference between duplicated and drop_duplicates?
+42.	Which all Python libraries have you used for visualization? 
+43.	List some of the categorical, distribution plots.
+44.	What is a scatter plot?
+45.	What is the difference between regplot(), lmplot() and residplot()?
+46.	What is a heatmap?
+47.	What is the difference between stripplot() and swarmplot()?
+48.	What is the purpose of density plot or  kde plot? Where are these used?
+49.	How is violinplot() different from boxplot()?
+50.	What is FacetGrid?
+51.	What is a Pairplot?
 
